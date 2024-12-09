@@ -93,15 +93,15 @@ const Best = () => {
           </div>
           
           <div>
-            <h1 className="font-bold text-[15px] leading-6">Kids'</h1>
+            <h1 className="font-bold text-[15px] leading-6">Kids</h1>
             <ul className="space-y-4 mt-2">
               <li className="font-medium text-[15px] leading-6">
                 Infant & Toddler Shoes
               </li>
-              <li className="font-medium text-[15px] leading-6">Kids' Shoes</li>
-              <li className="font-medium text-[15px] leading-6">Kids' Jordan Shoes</li>
+              <li className="font-medium text-[15px] leading-6">Kids Shoes</li>
+              <li className="font-medium text-[15px] leading-6">Kids Jordan Shoes</li>
               <li className="font-medium text-[15px] leading-6">
-                Kids' Basketball Shoes
+                Kids Basketball Shoes
               </li>
             </ul>
           </div>
