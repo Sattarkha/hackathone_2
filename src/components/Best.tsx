@@ -6,7 +6,7 @@ const Best = () => {
     <div className="px-4 sm:px-6 lg:px-1">
       
       <div className="max-w-[1344px] mx-auto mt-[100px]">
-        <h1 className="font-medium text-[22px] leading-7 pl-4 sm:pl-12">Don't Miss</h1>
+        <h1 className="font-medium text-[22px] leading-7 pl-4 sm:pl-12">Dont Miss</h1>
 
         <div className="w-full flex justify-center mt-8">
           <Image
